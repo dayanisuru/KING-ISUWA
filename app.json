@@ -3,9 +3,9 @@
   "description": "X-asena Multi Device whatsappbot",
   "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Neeraj-x0/x-asena",
-  "website": "https://github.com/Neeraj-x0/x-asena",
-  "success_url": "https://github.com/Neeraj-x0/x-asena",
+  "repository": "https://github.com/dayanisuru/KING-ISUWA",
+  "website": "https://github.com/dayanisuru/KING-ISUWA",
+  "success_url": "https://github.com/dayanisuru/KING-ISUWA",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
