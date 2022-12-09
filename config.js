@@ -27,10 +27,10 @@ module.exports = {
       : "^[!]",
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: "master",
-  PACKNAME: process.env.PACKNAME || "X-asena",
+  PACKNAME: process.env.PACKNAME || "KING-ISUWA",
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
-  AUTHOR: process.env.AUTHOR || "X-electra",
+  AUTHOR: process.env.AUTHOR || "dayanisuru",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./lib/database.db"
@@ -49,10 +49,10 @@ module.exports = {
           },
           logging: false,
         }),
-  SUDO: process.env.SUDO || "918113921898,919544951258",
+  SUDO: process.env.SUDO || "94776312185.94741410751",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
-  OWNER_NAME: process.env.OWNER_NAME || "Neeraj-X0",
-  BOT_NAME: process.env.BOT_NAME || "X-asena",
+  OWNER_NAME: process.env.OWNER_NAME || "dayanisuru",
+  BOT_NAME: process.env.BOT_NAME || "KING-ISUWA,
   WORK_TYPE: process.env.WORK_TYPE || "public",
 };
