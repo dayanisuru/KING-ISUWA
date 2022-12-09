@@ -72,7 +72,7 @@ async function Xasena() {
   conn.ev.on("connection.update", async (s) => {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
-      console.log("X-Asena");
+      console.log("KING-ISUWA");
       console.log("ℹ️ Connecting to WhatsApp... Please Wait.");
     }
     if (connection === "open") {
@@ -102,7 +102,7 @@ async function Xasena() {
         }
       });
       console.log("✅ Plugins Installed!");
-      let str = `\`\`\`X-asena connected \nversion : ${
+      let str = `\`\`\`KING-ISUWA connected \nversion : ${
         require(__dirname + "/package.json").version
       }\nTotal Plugins : ${events.commands.length}\nWorktype: ${
         config.WORK_TYPE
